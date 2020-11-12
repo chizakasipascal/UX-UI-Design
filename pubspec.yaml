@@ -23,6 +23,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  google_fonts: ^1.1.1
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -38,10 +39,4 @@ flutter:
 
   # assets:
     # - assets/images/
-    
-
-  fonts:
-    - family: Gilroy
-      fonts:
-        - asset: assets/fonts/Gilroy-Light.otf
         
